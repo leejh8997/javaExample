@@ -9,7 +9,7 @@ public class Ternary {
 		String result = num >= 0?"양수":"음수";
 		System.out.println(result);
 
-		
+		 
 	}
 
 }
