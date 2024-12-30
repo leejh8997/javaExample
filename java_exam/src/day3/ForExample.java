@@ -1,6 +1,6 @@
-package day2;
+package day3;
 
-public class asd {
+public class ForExample {
 
 	public static void main(String[] args) {
 
@@ -17,7 +17,6 @@ public class asd {
 				j++;
 			}			
 			i++;
-			System.out.println("/");
 		}
 		
 	}

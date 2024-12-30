@@ -1,15 +1,15 @@
 package memo;
 
 public class Note {
-	
+	// Ctrl + Shift + "+ or -" 글자크기 변경
 	// 정수(int)간의 나눗셈은 결과가 정수로 나온다.
 	//하나라도 실수(double)이면은 결과가 실수로 나온다.
 	
 	// 큰거 -> 작은거 (형변환)
 
-	//shift ent 커서가 해당열 아래로
-	//ctrl ent 문자와 커서가 해당열 아래로
-	//shift ctrl ent 커서는 해당열에 문자는 아래로
+	// shift ent 커서가 해당열 아래로
+	// ctrl ent 문자와 커서가 해당열 아래로
+	// shift ctrl ent 커서는 해당열에 문자는 아래로
 	
 	// Ctrl + Shift + O => import 생성
 	
@@ -23,4 +23,6 @@ public class Note {
 	// Ctrl + Shift + / => 여러줄 주석
 	// Ctrl + D => 한줄 삭제
 	// Alt + 위아래 화살표 => 코드 이동
-}
+	
+	// 노션 => 공부한거 정리하거나 포트폴리오 제작
+	}
