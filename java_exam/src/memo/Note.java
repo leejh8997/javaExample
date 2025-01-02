@@ -8,7 +8,6 @@ public class Note {
 	// 큰거 -> 작은거 (형변환)
 
 	// shift ent 커서가 해당열 아래로
-	// ctrl ent 문자와 커서가 해당열 아래로
 	// shift ctrl ent 커서는 해당열에 문자는 아래로
 	
 	// Ctrl + Shift + O => import 생성
@@ -27,3 +26,17 @@ public class Note {
 	// Alt + Shift => 해당 {} 전체 스크롤
 	// 노션 => 공부한거 정리하거나 포트폴리오 제작
 	}
+////선택정렬 내림차순
+//int arr[] = {3,2,5,4,1};
+//for(int i=arr.length-1; i>0; i--) {
+//	int index =i;
+//	for(int j=0; j<arr.length; j++) {
+//		if(arr[j]>arr[index]) {
+//			index = j;
+//		}
+//		int temp = arr[i];
+//		arr[i] = arr[j];
+//		arr[j] = temp;
+//	}
+//}
+//System.out.println(Arrays.toString(arr));
