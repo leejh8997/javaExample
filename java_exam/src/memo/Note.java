@@ -25,18 +25,7 @@ public class Note {
 	// Ctrl + Alt + 화살표 => 화살표 방향으로 줄 복사
 	// Alt + Shift => 해당 {} 전체 스크롤
 	// 노션 => 공부한거 정리하거나 포트폴리오 제작
+	
+	// 화면 우클릭 > source > generate getter and setter > get(), set() 생성
+	
 	}
-////선택정렬 내림차순
-//int arr[] = {3,2,5,4,1};
-//for(int i=arr.length-1; i>0; i--) {
-//	int index =i;
-//	for(int j=0; j<arr.length; j++) {
-//		if(arr[j]>arr[index]) {
-//			index = j;
-//		}
-//		int temp = arr[i];
-//		arr[i] = arr[j];
-//		arr[j] = temp;
-//	}
-//}
-//System.out.println(Arrays.toString(arr));
