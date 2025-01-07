@@ -1,6 +1,6 @@
-package PackB;
+package day7.PackB;
 
-import PackA.ClassA;
+import day7.PackA.ClassA;
 
 public class ClassB extends ClassA {
 	void test() {
