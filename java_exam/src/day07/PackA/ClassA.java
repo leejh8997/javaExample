@@ -1,4 +1,4 @@
-package day7.PackA;
+package day07.PackA;
 
 public class ClassA {
 	

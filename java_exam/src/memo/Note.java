@@ -1,6 +1,8 @@
 package memo;
 
 public class Note {
+	public static void main(String[] args) {
+		
 	// Ctrl + Shift + "+ or -" 글자크기 변경
 	// 정수(int)간의 나눗셈은 결과가 정수로 나온다.
 	//하나라도 실수(double)이면은 결과가 실수로 나온다.
@@ -28,4 +30,19 @@ public class Note {
 	
 	// 화면 우클릭 > source > generate getter and setter > get(), set() 생성
 	
+	// Alt + Shift + A => 범위 지정 => 여러 줄 동시에 수정 가능
+	
+	
+	//	System.out.println(s.equals(ss));  문자열비교
+	//	System.out.println(name.length); 문자갯수 출력
+	//	int a = 10;
+	//	String b = a +""; // "10"
+	//	Object arr[] = new Object[3];
+	//	arr[0]=a;
+	//	arr[1]=1;
+	
+	// escape문자 : \t 탭만큼 여백, \n 줄 바꿈, / + 특수문자(일반적으로출력안되는) \ 뒤에 특수문자 출력, 
+		
+	// json데이터 list안에 여러 map이 있는 형태
 	}
+}
