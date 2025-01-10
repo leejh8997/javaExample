@@ -1,4 +1,4 @@
-package day9;
+package day09;
 
 public class ColorTV extends TV{
 	int color;
@@ -7,6 +7,6 @@ public class ColorTV extends TV{
 		this.color = color;
 	}
 	void printProperty(){
-		System.out.println("결과 : " + this.getSize() + "인치 " + color + "컬러");
+		System.out.println(this.getSize() + "인치 " + color + "컬러");
 	}
 }
