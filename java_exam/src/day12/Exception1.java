@@ -26,7 +26,7 @@ public class Exception1 {
 			} catch (Exception e) {
 				// TODO: handle exception
 				System.out.println("예기치 못한 에러 발생");
-				scan.nextLine();				
+//				scan.nextLine();				
 			}	
 		}
 	}
