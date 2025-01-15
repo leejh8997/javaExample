@@ -50,5 +50,8 @@ public class Note {
 	// 3. 배열(+if,for)
 	// 4~5. 클래스(객체, 상속, 인터페이스, Ovject, String)
 	// 6. 리스트 + 해시맵
+		
+	// iconfinder.com => 무료 아이콘
+	// 경로에서  . 현재 폴더,  .. 이전 폴더
 	}
 }
