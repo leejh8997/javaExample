@@ -53,5 +53,7 @@ public class Note {
 		
 	// iconfinder.com => 무료 아이콘
 	// 경로에서  . 현재 폴더,  .. 이전 폴더
+		
+	// return; <= 독립적으로 쓰면 메소드 탈출
 	}
 }
