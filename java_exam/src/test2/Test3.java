@@ -10,11 +10,11 @@ public class Test3 {
 		int []arr = new int[6];
 		
 		for(int i=0; i<arr.length; i++) {
-			System.out.print("숫자 입력 : ");
+			System.out.print((i+1) + "번째 숫자 입력 : ");
 			int x = s.nextInt();
-			if(x > 0 && x <100) {
+			if(x > 0 && x <=100) {
 				boolean flg = false;
-				for(int j=0; j<arr.length; j++) {
+				for(int j=0; j<i; j++) {
 					if(arr[j] == x) {
 						flg = true;
 						System.out.println("중복");
@@ -25,6 +25,9 @@ public class Test3 {
 				if(!flg) {
 					arr[i] = x;
 				}
+			} else {
+				System.out.println("1~100사이 값");
+				i--;
 			}
 		}
 		
